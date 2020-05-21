@@ -1,7 +1,7 @@
 # text_editors
 Tools of the trade. 
 
-###IDEs covered
+### IDEs covered
 
 ```
 Atom
