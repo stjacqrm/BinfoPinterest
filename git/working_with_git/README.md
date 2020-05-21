@@ -105,6 +105,18 @@ Delete changes you've added to your branch, but haven't pushed:
 $ git rm --cached <file-name>
 ```
 
+Sync origin master branch with upstream master branch (no matter the cost):
+```
+$ git fetch upstream
+$ git checkout master
+$ git merge upstream/master
+```
+
+Sync origin master branch on your GitHub repo
+```
+$ git push origin master
+```
+
 ## Afriad of commit-ment?
 Don't worry, everyone is a little bit. 
 
