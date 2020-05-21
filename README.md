@@ -13,4 +13,7 @@ There are little READMEs in appropriately named directories with tips for runnin
   * DOCKER CE
   * BaseMount
   * linux_essentials
+  * aliases
+  * git
+  * text editors
 
