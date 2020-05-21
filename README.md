@@ -13,4 +13,5 @@ python3.6+
 Mash
 DOCKER CE
 BaseMount
+linux_essentials
 ```
