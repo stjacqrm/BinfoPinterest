@@ -1,6 +1,6 @@
 # Aliases
 Here's several aliases that I've found to be useful. I've gotten some of them from [StaPH-B](https://github.com/StaPH-B)
-and others from [Stephen Tuner](https://github.com/stephenturner/oneliners).
+and others from [Stephen Tuner](https://github.com/stephenturner/oneliners) and [Kelsey Florek](https://github.com/k-florek).
 
 ## write aliases to .bashrc
 Go to your home directory and type
@@ -40,5 +40,9 @@ extract () {
    else
        echo "'$1' is not a valid file!"
    fi
+}
+
+docker_run () {
+docker run --rm=True -u $(id -u):$(id -g) -v $(pwd):/data "$@"
 }
 ```
