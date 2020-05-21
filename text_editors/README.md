@@ -3,7 +3,5 @@ Tools of the trade.
 
 ### IDEs covered
 
-```
-Atom
-
-```
+  * [Atom](https://atom.io/)
+  * [PyCharm](https://www.jetbrains.com/)
