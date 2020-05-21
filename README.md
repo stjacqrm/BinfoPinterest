@@ -10,4 +10,5 @@ Each tool has its own directory with a README.md with instructions on how to go 
 ```
 python3.6+
 Mash
+DOCKER CE
 ```
