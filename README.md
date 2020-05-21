@@ -1,4 +1,5 @@
-# installations
+# BinfoPinterest
+### Formerly known as installations
 I got tired of having to look up how to install various tools and prereqs. Sometimes you need something that isn't in a docker container, or for some reason need it locally.
 
 ## Repository setup
