@@ -22,7 +22,7 @@ $ nano .bashrc
 ```
 
 ```
-export PATH="/home/rstjacques/Applications/pycharm-community-2020.1.1/bin/:$PATH"
+export PATH="/good/directory/for/ide/pycharm-community-2020.1.1/bin/:$PATH"
 ```
 
 click Ctrl X, Y, then Enter
