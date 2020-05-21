@@ -7,11 +7,9 @@ I got tired of having to look up how to install various tools and prereqs. Somet
 
 ## Tool install directions in the repository
 
+  * python3.6+
+  * Mash
+  * DOCKER CE
+  * BaseMount
+  * linux_essentials
 
-```
-python3.6+
-Mash
-DOCKER CE
-BaseMount
-linux_essentials
-```
