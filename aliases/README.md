@@ -48,6 +48,7 @@ docker run --rm=True -u $(id -u):$(id -g) -v $(pwd):/data "$@"
 ```
 Once you're done with your edits, click Ctrl X. You'll get a prompt asking if you want to 
 
-```Save Modified Buffer? (Answering "No" will DISCARD changes)
+```
+Save Modified Buffer? (Answering "No" will DISCARD changes)
 ```
 type Y, then hit Enter. 
