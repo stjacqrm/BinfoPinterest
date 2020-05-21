@@ -17,6 +17,7 @@ alias mf="mv -i"
 alias mroe="more"
 alias c='clear'
 alias clera="clear"
+alias hgrep='history | grep'
 
 # as suggested by Mendel Cooper in "Advanced Bash Scripting Guide"
 extract () {
