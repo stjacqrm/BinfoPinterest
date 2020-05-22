@@ -124,6 +124,10 @@ Sync origin master branch on your GitHub repo
 $ git push origin master
 ```
 
+Fetch and download content from a repo and update local (a combo of ```git fetch``` and ``` git merge```:
+```
+$ git pull
+```
 ## Afriad of commit-ment?
 Don't worry, everyone is a little bit. 
 
