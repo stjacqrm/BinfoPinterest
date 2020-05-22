@@ -114,8 +114,8 @@ $ git merge upstream/master
 
 Sync origin master branch with upstream master branch (discarding your changes):
 ```
-$ git fetch origin
-$ git reset --hard origin/master
+$ git fetch upstream
+$ git reset --hard upstream/master
 $ git clean -f -d
 ```
 
