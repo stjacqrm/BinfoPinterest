@@ -3,6 +3,6 @@
 
 ```
 $ sudo bash -c "$(curl -L https://basemount.basespace.illumina.com/install)"
-$ Mkdir ~/BaseSpace
+$ mkdir ~/BaseSpace
 $ Basemount ~/BaseSpace
 ```
