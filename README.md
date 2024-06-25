@@ -16,4 +16,11 @@ There are little READMEs in appropriately named directories with tips for runnin
   * aliases
   * git
   * text editors
+  * code templates
+
+### Code templates
+Are intented for quick reference/instruction on how to structure simple code (like wrappers and such)
+
+  * README.md template
+  * bash_template.sh
 
