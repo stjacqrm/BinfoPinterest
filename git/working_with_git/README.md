@@ -125,23 +125,23 @@ Delete changes you've added to your branch, but haven't pushed:
 $ git rm --cached <file-name>
 ```
 
-Sync origin master branch with upstream master branch (but keeping your local changes):
+Sync origin main branch with upstream main branch (but keeping your local changes):
 ```
 $ git fetch upstream
-$ git checkout master
-$ git merge upstream/master
+$ git checkout main
+$ git merge upstream/main
 ```
 
-Sync origin master branch with upstream master branch (discarding your changes):
+Sync origin main branch with upstream main branch (discarding your changes):
 ```
 $ git fetch upstream
-$ git reset --hard upstream/master
+$ git reset --hard upstream/main
 $ git clean -f -d
 ```
 
-Sync origin master branch on your GitHub repo
+Sync origin main branch on your GitHub repo
 ```
-$ git push origin master
+$ git push origin main
 ```
 
 Fetch and download content from a repo and update local (a combo of ```git fetch``` and ``` git merge```):
@@ -172,11 +172,11 @@ $ git push origin new_branch
 Merge one branch into another branch:
 
 ```
-$ git checkout master
+$ git checkout main
 $ git merge new_branch
 ```
 
-Push what you've just merged into your master branch:
+Push what you've just merged into your main branch:
 ```
-$ git push origin master
+$ git push origin main
 ```
