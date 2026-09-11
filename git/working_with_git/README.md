@@ -15,6 +15,26 @@ $ cd random_scripts
 $ ls
 ```
 
+## Checkout out a particular tag
+git the tags!
+
+```
+$ cd random_scripts
+$ git fetch --tags
+```
+
+List the available tags
+
+```
+$ git tag
+```
+
+Checkout the tag
+
+```
+$ git checkout v1.1.0
+```
+
 ## Seeing whats "origin" and what's "upstream"
 "Origin" should be your fork of the repository. To check:
 
